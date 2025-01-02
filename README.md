@@ -1,1 +1,4 @@
-# odin-recipes
+ Hello! This is my first website!
+
+ After reviewing this website, I have hopefully demonstrated my knowledge of HTML to you through use of elements, (such as anchors for links, italics & bold lettering), creation of various links and image types and understanding of different attributes required for each element, such as href in an anchor element and src in an img void element. I've used my new understanding of the target & rel attributes to have my links open in new tags, with an added security measure in mind, noreferrer so as the opened link will not be able to gain any information on the webpage from which it was opened or identify that it even has the link in its' contents. 
+I am learning how to use Git and GitHub simultaneously to share my work with you! 
